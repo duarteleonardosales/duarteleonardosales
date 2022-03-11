@@ -24,21 +24,9 @@
 - [Redes Neurais para predição de valores de imóveis](https://github.com/duarteleonardosales/Redes-Neurais-Artificiais-Predicao)
 - [WebScraping - ColetaImovel](https://github.com/duarteleonardosales/WebScraping)
 - [Dog and Cat Classification](https://github.com/duarteleonardosales/Dog_Cat_Classification)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [LajesNB](https://github.com/duarteleonardosales/LajesNB)
+- [GMD - Get Minimum Distances](https://github.com/duarteleonardosales/Get-Minimum-Distances)
+- [Analise-Descritiva-IBGE](https://github.com/duarteleonardosales/Analise-Descritiva)
 
 <!---
 duarteleonardosales/duarteleonardosales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
