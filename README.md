@@ -1,6 +1,6 @@
 <h2 align="center">Hi there👋, I am Leonardo Duarte!</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayur7garg&style=flat-square"></img>
+  <img src="https://komarev.com/ghpvc/?username=duarteleonardosales&style=flat-square"></img>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/leonardo-sales-duarte/"><img src="https://img.shields.io/badge/LinkedIn-2977C9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
