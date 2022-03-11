@@ -7,8 +7,8 @@
   <a href="https://www.kaggle.com/mayur7garg"><img src="https://img.shields.io/badge/Kaggle-23BFFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayur7garg&theme=algolia&count_private=true&show_icons=true"></img>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur7garg&theme=algolia&count_private=true&langs_count=4"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=duarteleonardosales&theme=algolia&count_private=true&show_icons=true"></img>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duarteleonardosales&theme=algolia&count_private=true&langs_count=4"></img>
 </div>
 
 <h2 align="center">About Me</h2>
