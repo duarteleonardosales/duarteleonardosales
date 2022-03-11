@@ -20,9 +20,12 @@
 <h2 align="center">Projects</h2>
 
 ### Data Science projects
-- [Plant Leaf Disease Detection](https://github.com/mayur7garg/PlantLeafDiseaseDetection)
-- [Pet Image Classification](https://github.com/mayur7garg/PetImageClassification)
-- [Disaster Tweet Classification](http://disastertweet.herokuapp.com/)
+- [Data Science aplicado ao mercado imobiliário](https://github.com/duarteleonardosales/Data_Science_Imoveis)
+- [Redes Neurais para predição de valores de imóveis](https://github.com/duarteleonardosales/Redes-Neurais-Artificiais-Predicao)
+- [WebScraping - ColetaImovel](https://github.com/duarteleonardosales/WebScraping)
+- [Dog and Cat Classification](https://github.com/duarteleonardosales/Dog_Cat_Classification)
+
+
 
 
 
