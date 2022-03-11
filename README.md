@@ -4,7 +4,6 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/leonardo-sales-duarte/"><img src="https://img.shields.io/badge/LinkedIn-2977C9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.kaggle.com/mayur7garg"><img src="https://img.shields.io/badge/Kaggle-23BFFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=duarteleonardosales&theme=algolia&count_private=true&show_icons=true"></img>&nbsp;
